@@ -10,21 +10,21 @@ Hardware specifications, models and other necessary information were provided th
 Team was not allowed to interact with the robot during the programming phase.
 A testing round was provided for calibration and fine tuning.
 Following capabilities were tested during the first stage of the competition.
-  Straight Line Following
-  90-degree turns
-  Color detection
-  Distance measurement
-  Obstacle avoiding
-  Displaying messages on screen
+Straight Line Following
+90-degree turns
+Color detection
+Distance measurement
+Obstacle avoiding
+Displaying messages on screen
 
 Stage 2 - Simulation of a robot
 Teams were given a predefined task and sample material for a robot simulation.
 Task required to demonstrate following functionalities.
-  Straight line following
-  Curved Line following
-  Tree traversal
-  Color detection
-  Communication between robots
-  Pushing an object
-  Dashed line folllowing
-  Ramp Navigation
+Straight line following
+Curved Line following
+Tree traversal
+Color detection
+Communication between robots
+Pushing an object
+Dashed line folllowing
+Ramp Navigation
