@@ -37,6 +37,13 @@ https://github.com/vinwann/SLRC-2021/assets/68479282/dc0f3c2a-d40c-4883-a874-be1
 
 https://github.com/vinwann/SLRC-2021/assets/68479282/6b04742a-ea2b-48a1-9b0c-80bb6991fbdd
 
+#### Image processing
+
+https://github.com/vinwann/SLRC-2021/assets/72453709/53b61834-c866-49f5-9d28-8eb4ca46e547
+
+For the final build, the display for the image processing was hidden yet under the hood the above processing was carried. No libraries were used the algorithm targets the last 4 rows of the image to find the white line. Then it would process the location of the line wrt to the robot 
+
+
 Wall Following :
 
 https://github.com/vinwann/SLRC-2021/assets/68479282/9f395935-c457-4cea-9ed7-9e4228658c0c
