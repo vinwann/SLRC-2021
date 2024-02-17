@@ -28,3 +28,7 @@ Communication between robots,
 Pushing an object,
 Dashed line folllowing,
 Ramp Navigation
+
+Line following:
+
+https://github.com/vinwann/SLRC-2021/assets/68479282/dc0f3c2a-d40c-4883-a874-be1ffcf81801
